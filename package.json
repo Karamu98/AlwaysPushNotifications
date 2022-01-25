@@ -1,0 +1,11 @@
+{
+  "name": "alwayspushnotifications",
+  "version": "0.1.0",
+  "description": "Always pushes message notifications to your phone when active on a PC as well",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karamu98",
+  "license": "MIT"
+}

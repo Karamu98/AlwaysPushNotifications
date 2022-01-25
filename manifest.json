@@ -1,0 +1,7 @@
+{
+  "name": "Always Push Notifications",
+  "version": "0.1.0",
+  "description": "Pushes all desktop notifications to mobile as well",
+  "author": "Karamu98",
+  "license": "MIT"
+}
